@@ -1,5 +1,6 @@
 # AnimeEZ-api
 AnimeEZ API which scrapes from gogoanime to get details of anime(s).<br>
+**This is an edited version of [animexninja-api](https://github.com/routayush1/animexninja-api) and for watching anime [riimuru/gogoanime](https://github.com/riimuru/gogoanime) is used.**  
 # This is the api for https://github.com/dhvitOP/AnimeEZ project.
 # Setup
 1. Download the zip and extract it in any path you want. <br>
@@ -10,4 +11,4 @@ AnimeEZ API which scrapes from gogoanime to get details of anime(s).<br>
 # Requirements
 --> You need node install on your machine or host of version 14 or above.
 # Issues?
-You can create any issues here or dm me on discord DHVIT#7547.
+--> You can create any issues here or dm me on discord DHVIT#7547.
