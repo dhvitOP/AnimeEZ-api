@@ -9,3 +9,5 @@ AnimeEZ API which scrapes from gogoanime to get details of anime(s).<br>
 5. The API is up and nice. If you want to edit some configs you can do it in config.js but there is not much of config you can edit.<br>
 # Requirements
 --> You need node install on your machine or host of version 14 or above.
+# Issues?
+You can create any issues here or dm me on discord DHVIT#7547.
