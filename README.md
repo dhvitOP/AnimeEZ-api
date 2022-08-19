@@ -1,5 +1,4 @@
 # AnimeEZ-api
-AnimeEZ API which scrapes from gogoanime to get details of anime(s).<br>
 **This is an edited version of [animexninja-api](https://github.com/routayush1/animexninja-api) and for watching anime [riimuru/gogoanime](https://github.com/riimuru/gogoanime) is used.**  
 # This is the api for https://github.com/dhvitOP/AnimeEZ project.
 # Setup
