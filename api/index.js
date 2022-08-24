@@ -31,7 +31,22 @@ app.all('*', (req, res, next) => {
 
     next();
 });
-
+app.get("/", (req, res) => {
+  let info = {
+    popular: "http://localhost:6969/api/popular/:page",
+    details: "http://localhost:6969/api/details/:id",
+    search: "http://localhost:6969/api/search/:word/:page",
+    episode_details: "http://localhost:6969/api/watching/:id/:episode",
+    genre: "http://localhost:6969/api/genre/:type/:page",
+    recently_added: "http://localhost:6969/api/recentlyadded/:page",
+    anime_list: "http://localhost:6969/api/list/:page",
+    genrelist: "http://localhost:6969/api/genrelist",
+    movies_list: "http://localhost:6969/api/movies",
+    tv_shows_list: "http://localhost:6969/api/tv-shows",
+    watch_iframe: "http://localhost:6969/watch/:id/:episode"
+  };
+  res.send(info);
+});
 app.get("/api/popular/:page", (req, res) => {
   let results = [];
   let page = req.params.page;
