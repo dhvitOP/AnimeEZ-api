@@ -1,5 +1,5 @@
+# NOTE THIS IS AN API FOR [AnimeEZ](https://github.com/dhvitOP/AnimeEZ) AND NOT A WEBSITE
 # AnimeEZ-api
-## NOTE THIS IS AN API FOR [AnimeEZ](https://github.com/dhvitOP/AnimeEZ) AND NOT A WEBSITE
 **This is an edited version of [animexninja-api](https://github.com/routayush1/animexninja-api) and for watching anime [riimuru/gogoanime](https://github.com/riimuru/gogoanime) is used.**  
 # This is the api for https://github.com/dhvitOP/AnimeEZ project.
 # Setup
